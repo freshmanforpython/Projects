@@ -83,12 +83,12 @@ loan['BwrPersonId'][i] == loan['BwrPersonId'][i-1]
 ## Functions
 1. Counter() -> from_dict (**pandas**) :switch from dict to df
 2. **pandas.df:** 
-rename(columns = {'column1':'XXX';'c2': 'yyy'}); 
-reset_index(); 
-sort_values('column'); 
-unique() -> the unique values in column (return array); 
-values() -> the values in column (return array)
-drop_duplicates() -> drop duplicates in column
+rename(columns = {'column1':'XXX';'c2': 'yyy'}); <br />
+reset_index(); <br />
+sort_values('column'); <br />
+unique() -> the unique values in column (return array); <br />
+values() -> the values in column (return array); <br />
+drop_duplicates() -> drop duplicates in column; <br />
 
 ## Things that can improve
 1. Iterable list: 
